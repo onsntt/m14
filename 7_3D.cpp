@@ -23,7 +23,7 @@ for (int i = 0; i < 5; i++)
     {
         for (int k = 0; k < 10; k++)
         {
-            world[i][j][k] = 0;0
+            world[i][j][k] = 0;
         }
     }
 }
